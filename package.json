@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-mijia",
+  "version": "0.1.18",
+  "description": "MiJia plugin for homebridge: https://github.com/nfarina/homebridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxmudjon/homebridge-mijia.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "Maxmudjon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxmudjon/homebridge-mijia/issues"
+  },
+  "homepage": "https://github.com/Maxmudjon/homebridge-mijia#readme"
+}
