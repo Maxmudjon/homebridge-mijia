@@ -1,3 +1,3 @@
 module.exports = function(homebridge) {
-  require('./gen/MiJiaPlatform')(homebridge);
+  require('./lib/MiJiaPlatform')(homebridge);
 }

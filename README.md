@@ -1,3 +1,8 @@
+Adding a new low battery service. When the battery is low, the notification icon (iOS 10.3 or later version)
+
+https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-25.jpg
+https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-39.jpg
+
 # homebridge-mijia
 [![npm version](https://badge.fury.io/js/homebridge-mijia.svg)](https://badge.fury.io/js/homebridge-mijia)
 
@@ -36,8 +41,8 @@ MiJia is a ZigBee gateway with a almost all sensors and accessories. Please see 
             "platforms": [
             {
                 "platform": "MiJiaPlatform",
-                "sid": ["6409802da3b3"],
-                "password": ["02i44k56zrgg578b"]
+                "sid": ["1a2b3c4d5e6f"],
+                "password": ["1234567890123456"]
             }]
         }
 
@@ -48,8 +53,8 @@ MiJia is a ZigBee gateway with a almost all sensors and accessories. Please see 
             "platforms": [
             {
                 "platform": "MiJiaPlatform",
-                "sid": ["6409802da3b3", "f0b4299a5b2b", "f0b4299a77dd"],
-                "password": ["02i44k56zrgg578b", "g250s2vtne8q9qhv", "syu3oasva3uqd5qd"]
+                "sid": ["1a2b3c4d5e6f", "1a2b3c4d5e6f", "1a2b3c4d5e6f"],
+                "password": ["1234567890123456", "1234567890123456", "1234567890123456"]
             }]
         }
 
@@ -79,7 +84,7 @@ MiJia is a ZigBee gateway with a almost all sensors and accessories. Please see 
                 "platform": "MiJiaPlatform",
                 ...
                 "sensor_names": {
-					"74ef":"Kitchen Window"
+					"0c08":"Kitchen Window"
                 }
                 ...
             }]
