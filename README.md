@@ -1,7 +1,7 @@
 Adding a new low battery service. When the battery is low, the notification icon (iOS 10.3 or later version)
 
-![](https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-25!320x180.jpg)
-![](https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-39!320x180.jpg)
+![](https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-25.jpg =320x180)
+![](https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-39.jpg =320x180)
 
 # homebridge-mijia
 [![npm version](https://badge.fury.io/js/homebridge-mijia.svg)](https://badge.fury.io/js/homebridge-mijia)
