@@ -1,8 +1,3 @@
-Adding a new low battery service. When the battery is low, the notification icon (iOS 10.3 or later version)
-
-<a href="url"><img src="https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-25.jpg" align="left" height="320" width="180" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-39.jpg" align="center" height="320" width="180" ></a>
-
 # homebridge-mijia
 [![npm version](https://badge.fury.io/js/homebridge-mijia.svg)](https://badge.fury.io/js/homebridge-mijia)
 
@@ -22,6 +17,19 @@ MiJia is a ZigBee gateway with a almost all sensors and accessories. Please see 
 ![](https://raw.githubusercontent.com/Maxmudjon/images/master/Mijia-Smart-Socket-200x200.jpg)
 ![](https://raw.githubusercontent.com/Maxmudjon/images/master/Mijia-Temperature-Humidity-Sensor-200x200.jpg)
 ![](https://raw.githubusercontent.com/Maxmudjon/images/master/Mijia-Wireless-Switch-200x200.jpg)
+
+A new service has been added. Level battery.
+
+<a href="url"><img src="https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-07_01-12-01.jpg" align="left" height="320" width="180" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-07_01-12-14.jpg" align="center" height="320" width="180" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-07_01-12-17.jpg" align="right" height="320" width="180" ></a>
+
+
+Adding a new low battery service. When the battery is low, the notification icon (iOS 10.3 or later version)
+
+<a href="url"><img src="https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-25.jpg" align="left" height="320" width="180" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/Maxmudjon/images/master/photo_2017-05-06_01-15-39.jpg" align="center" height="320" width="180" ></a>
+
 
 ### Pre-Requirements
 1. Make sure you have V2 of the gateway. V1 has limited space so can't support this feature.
