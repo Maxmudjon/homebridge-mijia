@@ -1,6 +1,6 @@
 {
   "name": "homebridge-mijia",
-  "version": "1.2.78",
+  "version": "1.2.81",
   "description": "MiJia plugin for homebridge: https://github.com/nfarina/homebridge",
   "main": "index.js",
   "scripts": {
